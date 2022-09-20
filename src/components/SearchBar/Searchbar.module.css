@@ -9,7 +9,7 @@
   min-height: 64px;
   padding: 12px 24px;
   color: #fff;
-  background-color: #12632a;
+  background: linear-gradient(to bottom, rgb(16, 90, 16), rgb(46, 217, 46));
   box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
     0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
 }
